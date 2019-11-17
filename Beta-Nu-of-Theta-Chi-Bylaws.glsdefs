@@ -1,0 +1,1230 @@
+\ifglsentryexists{staggard}{}%
+{%
+\gls@defglossaryentry{staggard}%
+{%
+name={staggard},%
+sort={staggard},%
+type={main},%
+first={staggard},%
+firstplural={staggards},%
+text={staggard},%
+plural={staggards},%
+description={A brother who is staggard loses \gls {squatters} and has 100 added to his \gls {roster}. This effect stacks with itself},%
+descriptionplural={A brother who is staggard loses \gls {squatters} and has 100 added to his \gls {roster}. This effect stacks with itself},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{squatters}{}%
+{%
+\gls@defglossaryentry{squatters}%
+{%
+name={squatter's rights},%
+sort={squatter's rights},%
+type={main},%
+first={squatter's rights},%
+firstplural={squatter's rightss},%
+text={squatter's rights},%
+plural={squatter's rightss},%
+description={The second highest proiority given to a brother when deciding housing assignments. A brother has squatter's rights for a room if he is living in that room during the semester in which room assignments are made},%
+descriptionplural={The second highest proiority given to a brother when deciding housing assignments. A brother has squatter's rights for a room if he is living in that room during the semester in which room assignments are made},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{roster}{}%
+{%
+\gls@defglossaryentry{roster}%
+{%
+name={roster number},%
+sort={roster number},%
+type={main},%
+first={roster number},%
+firstplural={roster numbers},%
+text={roster number},%
+plural={roster numbers},%
+description={For the purposes of these bylaws, a brother's roster number starts as the median of the actual roster numbers of his New Member Class},%
+descriptionplural={For the purposes of these bylaws, a brother's roster number starts as the median of the actual roster numbers of his New Member Class},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{social}{}%
+{%
+\gls@defglossaryentry{social}%
+{%
+name={social event},%
+sort={social event},%
+type={main},%
+first={social event},%
+firstplural={social events},%
+text={social event},%
+plural={social events},%
+description={Open and closed parties sponsored by the fraternity and any other event given this designation by \gls {ec} excluding house meals and Rush events. Examples: Mixers, some Greek Week Events, and Formal},%
+descriptionplural={Open and closed parties sponsored by the fraternity and any other event given this designation by \gls {ec} excluding house meals and Rush events. Examples: Mixers, some Greek Week Events, and Formal},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{schol-program}{}%
+{%
+\gls@defglossaryentry{schol-program}%
+{%
+name={scholarship program},%
+sort={scholarship program},%
+type={main},%
+first={scholarship program},%
+firstplural={scholarship programs},%
+text={scholarship program},%
+plural={scholarship programs},%
+description={The semesterly legislation created by the Scholarship Chairman which is to include scholarship goals for the chapter and means or reaching those goals},%
+descriptionplural={The semesterly legislation created by the Scholarship Chairman which is to include scholarship goals for the chapter and means or reaching those goals},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{abs-maj}{}%
+{%
+\gls@defglossaryentry{abs-maj}%
+{%
+name={absolute majority},%
+sort={absolute majority},%
+type={main},%
+first={absolute majority},%
+firstplural={absolute majoritys},%
+text={absolute majority},%
+plural={absolute majoritys},%
+description={A vote of over 50\% of all the voting body, counting all brothers, including those not present},%
+descriptionplural={A vote of over 50\% of all the voting body, counting all brothers, including those not present},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{simp-maj}{}%
+{%
+\gls@defglossaryentry{simp-maj}%
+{%
+name={simple majority},%
+sort={simple majority},%
+type={main},%
+first={simple majority},%
+firstplural={simple majoritys},%
+text={simple majority},%
+plural={simple majoritys},%
+description={A vote that must be over 50\% of those brothers present and eligible to vote to succeed providing \gls {qorm} is present},%
+descriptionplural={A vote that must be over 50\% of those brothers present and eligible to vote to succeed providing \gls {qorm} is present},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{super-maj}{}%
+{%
+\gls@defglossaryentry{super-maj}%
+{%
+name={supermajority},%
+sort={supermajority},%
+type={main},%
+first={supermajority},%
+firstplural={supermajoritys},%
+text={supermajority},%
+plural={supermajoritys},%
+description={A vote that must be over $\frac {2}{3}$ of the voting body to succeed},%
+descriptionplural={A vote that must be over $\frac {2}{3}$ of the voting body to succeed},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{grieve}{}%
+{%
+\gls@defglossaryentry{grieve}%
+{%
+name={grievance},%
+sort={grievance},%
+type={main},%
+first={grievance},%
+firstplural={grievances},%
+text={grievance},%
+plural={grievances},%
+description={A request submitted to \gls {ec} for clarification of the intention of the bylaws},%
+descriptionplural={A request submitted to \gls {ec} for clarification of the intention of the bylaws},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{qorm}{}%
+{%
+\gls@defglossaryentry{qorm}%
+{%
+name={quorum},%
+sort={quorum},%
+type={main},%
+first={quorum},%
+firstplural={quorums},%
+text={quorum},%
+plural={quorums},%
+description={One more than half of the active chapter or the body that it describes},%
+descriptionplural={One more than half of the active chapter or the body that it describes},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{balloting}{}%
+{%
+\gls@defglossaryentry{balloting}%
+{%
+name={ballot},%
+sort={ballot},%
+type={main},%
+first={ballot},%
+firstplural={ballots},%
+text={ballot},%
+plural={ballots},%
+description={A secret vote as defined in \hyperref [balloting]{Article IV, \autoref *{balloting}}},%
+descriptionplural={A secret vote as defined in \hyperref [balloting]{Article IV, \autoref *{balloting}}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{attend}{}%
+{%
+\gls@defglossaryentry{attend}%
+{%
+name={attend},%
+sort={attend},%
+type={main},%
+first={attend},%
+firstplural={attends},%
+text={attend},%
+plural={attends},%
+description={Attendance is at the discretion of the organizer of the event, with a suggested attended portion being 3/4 of the event's total run time},%
+descriptionplural={Attendance is at the discretion of the organizer of the event, with a suggested attended portion being 3/4 of the event's total run time},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{special-detail}{}%
+{%
+\gls@defglossaryentry{special-detail}%
+{%
+name={special event detail},%
+sort={special event detail},%
+type={main},%
+first={special event detail},%
+firstplural={special event details},%
+text={special event detail},%
+plural={special event details},%
+description={An \gls {official-chapter-event} declared by the Detail Manager with a stated objective such as cleaning the house before inspections or a Rush event. The chapter must be given at least twenty-four hours notice of such a session and excuses for the session will be approved by EC.},%
+descriptionplural={An \gls {official-chapter-event} declared by the Detail Manager with a stated objective such as cleaning the house before inspections or a Rush event. The chapter must be given at least twenty-four hours notice of such a session and excuses for the session will be approved by EC.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{awesome}{}%
+{%
+\gls@defglossaryentry{awesome}%
+{%
+name={Awesome},%
+sort={Awesome},%
+type={main},%
+first={Awesome},%
+firstplural={Awesomes},%
+text={Awesome},%
+plural={Awesomes},%
+description={A group of four or more brothers of Theta Chi},%
+descriptionplural={A group of four or more brothers of Theta Chi},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{res-plea}{}%
+{%
+\gls@defglossaryentry{res-plea}%
+{%
+name={responsible plea},%
+sort={responsible plea},%
+type={main},%
+first={responsible plea},%
+firstplural={responsible pleas},%
+text={responsible plea},%
+plural={responsible pleas},%
+description={The Accused admits that he is rightfully accused and agrees to all sanctions given},%
+descriptionplural={The Accused admits that he is rightfully accused and agrees to all sanctions given},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{not-res-plea}{}%
+{%
+\gls@defglossaryentry{not-res-plea}%
+{%
+name={not responsible plea},%
+sort={not responsible plea},%
+type={main},%
+first={not responsible plea},%
+firstplural={not responsible pleas},%
+text={not responsible plea},%
+plural={not responsible pleas},%
+description={The Accused denies culpability for the accusation},%
+descriptionplural={The Accused denies culpability for the accusation},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{no-cont-plea}{}%
+{%
+\gls@defglossaryentry{no-cont-plea}%
+{%
+name={no contest plea},%
+sort={no contest plea},%
+type={main},%
+first={no contest plea},%
+firstplural={no contest pleas},%
+text={no contest plea},%
+plural={no contest pleas},%
+description={The Accused attests to the truth of the accusation, but believes there are mitigating circumstances surrounding the accusation which exculpate him},%
+descriptionplural={The Accused attests to the truth of the accusation, but believes there are mitigating circumstances surrounding the accusation which exculpate him},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{not-resp}{}%
+{%
+\gls@defglossaryentry{not-resp}%
+{%
+name={not responsible},%
+sort={not responsible},%
+type={main},%
+first={not responsible},%
+firstplural={not responsibles},%
+text={not responsible},%
+plural={not responsibles},%
+description={A ruling that states the Accused is not culpable for the accusation against him},%
+descriptionplural={A ruling that states the Accused is not culpable for the accusation against him},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{resp}{}%
+{%
+\gls@defglossaryentry{resp}%
+{%
+name={responsible},%
+sort={responsible},%
+type={main},%
+first={responsible},%
+firstplural={responsibles},%
+text={responsible},%
+plural={responsibles},%
+description={A ruling that states the Accused is culpable for the accusation against him},%
+descriptionplural={A ruling that states the Accused is culpable for the accusation against him},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{fin-probation}{}%
+{%
+\gls@defglossaryentry{fin-probation}%
+{%
+name={financial probation},%
+sort={financial probation},%
+type={main},%
+first={financial probation},%
+firstplural={financial probations},%
+text={financial probation},%
+plural={financial probations},%
+description={See \hyperref [fin-probation]{Article VI, Section F, \autoref *{fin-probation}}},%
+descriptionplural={See \hyperref [fin-probation]{Article VI, Section F, \autoref *{fin-probation}}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{grade-imp-plan}{}%
+{%
+\gls@defglossaryentry{grade-imp-plan}%
+{%
+name={grade improvement plan},%
+sort={grade improvement plan},%
+type={main},%
+first={grade improvement plan},%
+firstplural={grade improvement plans},%
+text={grade improvement plan},%
+plural={grade improvement plans},%
+description={A plan made by a brother on \gls {academic-watch} with help from the Scholarship Chairman to improve his grades},%
+descriptionplural={A plan made by a brother on \gls {academic-watch} with help from the Scholarship Chairman to improve his grades},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{prob}{}%
+{%
+\gls@defglossaryentry{prob}%
+{%
+name={probation},%
+sort={probation},%
+type={main},%
+first={probation},%
+firstplural={probations},%
+text={probation},%
+plural={probations},%
+description={A brother on probation cannot attend social events and loses his voting rights},%
+descriptionplural={A brother on probation cannot attend social events and loses his voting rights},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{official-chapter-event}{}%
+{%
+\gls@defglossaryentry{official-chapter-event}%
+{%
+name={official chapter event},%
+sort={official chapter event},%
+type={main},%
+first={official chapter event},%
+firstplural={official chapter events},%
+text={official chapter event},%
+plural={official chapter events},%
+description={An event that all brothers must attend},%
+descriptionplural={An event that all brothers must attend},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{req-def}{}%
+{%
+\gls@defglossaryentry{req-def}%
+{%
+name={request for deferment},%
+sort={request for deferment},%
+type={main},%
+first={request for deferment},%
+firstplural={Requests for Deferment},%
+text={request for deferment},%
+plural={Requests for Deferment},%
+description={A form that includes how much money a brother wishes to defer, the reason a \gls {defer} is needed, and a payment plan for the amount deferred},%
+descriptionplural={A form that includes how much money a brother wishes to defer, the reason a \gls {defer} is needed, and a payment plan for the amount deferred},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{defer}{}%
+{%
+\gls@defglossaryentry{defer}%
+{%
+name={deferment},%
+sort={deferment},%
+type={main},%
+first={deferment},%
+firstplural={deferments},%
+text={deferment},%
+plural={deferments},%
+description={A payment plan approved by \gls {ec} based on a \gls {req-def} and the recommendations of the Treasurer for a brother's debt},%
+descriptionplural={A payment plan approved by \gls {ec} based on a \gls {req-def} and the recommendations of the Treasurer for a brother's debt},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{academic-probation}{}%
+{%
+\gls@defglossaryentry{academic-probation}%
+{%
+name={Academic Probation},%
+sort={Academic Probation},%
+type={main},%
+first={Academic Probation},%
+firstplural={Academic Probations},%
+text={Academic Probation},%
+plural={Academic Probations},%
+description={See \hyperref [academic-probation]{Article X, Section B, \autoref *{academic-probation}}},%
+descriptionplural={See \hyperref [academic-probation]{Article X, Section B, \autoref *{academic-probation}}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{academic-watch}{}%
+{%
+\gls@defglossaryentry{academic-watch}%
+{%
+name={Academic Watch},%
+sort={Academic Watch},%
+type={main},%
+first={Academic Watch},%
+firstplural={Academic Watchs},%
+text={Academic Watch},%
+plural={Academic Watchs},%
+description={See \hyperref [academic-watch]{Article X, Section B, \autoref *{academic-watch}}},%
+descriptionplural={See \hyperref [academic-watch]{Article X, Section B, \autoref *{academic-watch}}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{pytte}{}%
+{%
+\gls@defglossaryentry{pytte}%
+{%
+name={Community Standards},%
+sort={Community Standards},%
+type={main},%
+first={Community Standards},%
+firstplural={Community Standardss},%
+text={Community Standards},%
+plural={Community Standardss},%
+description={The list of requirements set forth by the Greek Life Office at \gls {cwru} which is to be completed yearly in the fall semester},%
+descriptionplural={The list of requirements set forth by the Greek Life Office at \gls {cwru} which is to be completed yearly in the fall semester},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{safety}{}%
+{%
+\gls@defglossaryentry{safety}%
+{%
+name={Safety Margin},%
+sort={Safety Margin},%
+type={main},%
+first={Safety Margin},%
+firstplural={Safety Margins},%
+text={Safety Margin},%
+plural={Safety Margins},%
+description={A sum of money built into the budget for the chapter which is set aside in case of unexpected expenses.},%
+descriptionplural={A sum of money built into the budget for the chapter which is set aside in case of unexpected expenses.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ex-ed}{}%
+{%
+\gls@defglossaryentry{ex-ed}%
+{%
+name={Executive Edict},%
+sort={Executive Edict},%
+type={main},%
+first={Executive Edict},%
+firstplural={Executive Edicts},%
+text={Executive Edict},%
+plural={Executive Edicts},%
+description={Legislation implemented in a time of emergency by a supermajority vote of EC. See \hyperref [executive-edict]{Article X, Section B, \autoref *{executive-edict}}},%
+descriptionplural={Legislation implemented in a time of emergency by a supermajority vote of EC. See \hyperref [executive-edict]{Article X, Section B, \autoref *{executive-edict}}},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{plur}{}%
+{%
+\gls@defglossaryentry{plur}%
+{%
+name={plurality},%
+sort={plurality},%
+type={main},%
+first={plurality},%
+firstplural={pluralitys},%
+text={plurality},%
+plural={pluralitys},%
+description={The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority.},%
+descriptionplural={The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority.},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={},%
+longplural={},%
+short={},%
+shortplural={},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cab}{}%
+{%
+\gls@defglossaryentry{cab}%
+{%
+name={CAB},%
+sort={CAB},%
+type={acronym},%
+first={Chapter Advisory Board\glsspace (CAB)},%
+firstplural={Chapter Advisory Board\acrpluralsuffix \glsspace (CAB\acrpluralsuffix )},%
+text={CAB},%
+plural={CAB\acrpluralsuffix },%
+description={Chapter Advisory Board},%
+descriptionplural={Chapter Advisory Board\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Chapter Advisory Board},%
+longplural={Chapter Advisory Boards},%
+short={CAB},%
+shortplural={CABs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ccc}{}%
+{%
+\gls@defglossaryentry{ccc}%
+{%
+name={CCC},%
+sort={CCC},%
+type={acronym},%
+first={Committee Chair Committee\glsspace (CCC)},%
+firstplural={Committee Chair Committee\acrpluralsuffix \glsspace (CCC\acrpluralsuffix )},%
+text={CCC},%
+plural={CCC\acrpluralsuffix },%
+description={Committee Chair Committee},%
+descriptionplural={Committee Chair Committee\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Committee Chair Committee},%
+longplural={Committee Chair Committees},%
+short={CCC},%
+shortplural={CCCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ibl}{}%
+{%
+\gls@defglossaryentry{ibl}%
+{%
+name={IBL},%
+sort={IBL},%
+type={acronym},%
+first={International Bylaws\glsspace (IBL)},%
+firstplural={International Bylaws\acrpluralsuffix \glsspace (IBL\acrpluralsuffix )},%
+text={IBL},%
+plural={IBL\acrpluralsuffix },%
+description={International Bylaws},%
+descriptionplural={International Bylaws\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Bylaws},%
+longplural={International Bylawss},%
+short={IBL},%
+shortplural={IBLs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ec}{}%
+{%
+\gls@defglossaryentry{ec}%
+{%
+name={EC},%
+sort={EC},%
+type={acronym},%
+first={Executive Council\glsspace (EC)},%
+firstplural={Executive Council\acrpluralsuffix \glsspace (EC\acrpluralsuffix )},%
+text={EC},%
+plural={EC\acrpluralsuffix },%
+description={Executive Council},%
+descriptionplural={Executive Council\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Executive Council},%
+longplural={Executive Councils},%
+short={EC},%
+shortplural={ECs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ifc}{}%
+{%
+\gls@defglossaryentry{ifc}%
+{%
+name={IFC},%
+sort={IFC},%
+type={acronym},%
+first={Interfraternity Congress\glsspace (IFC)},%
+firstplural={Interfraternity Congress\acrpluralsuffix \glsspace (IFC\acrpluralsuffix )},%
+text={IFC},%
+plural={IFC\acrpluralsuffix },%
+description={Interfraternity Congress},%
+descriptionplural={Interfraternity Congress\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Interfraternity Congress},%
+longplural={Interfraternity Congresss},%
+short={IFC},%
+shortplural={IFCs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{cwru}{}%
+{%
+\gls@defglossaryentry{cwru}%
+{%
+name={CWRU},%
+sort={CWRU},%
+type={acronym},%
+first={Case Western Reserve University\glsspace (CWRU)},%
+firstplural={Case Western Reserve University\acrpluralsuffix \glsspace (CWRU\acrpluralsuffix )},%
+text={CWRU},%
+plural={CWRU\acrpluralsuffix },%
+description={Case Western Reserve University},%
+descriptionplural={Case Western Reserve University\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Case Western Reserve University},%
+longplural={Case Western Reserve Universitys},%
+short={CWRU},%
+shortplural={CWRUs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{smarrt}{}%
+{%
+\gls@defglossaryentry{smarrt}%
+{%
+name={SMARRT},%
+sort={SMARRT},%
+type={acronym},%
+first={Students Meeting about Risk and Responsibility Training\glsspace (SMARRT)},%
+firstplural={Students Meeting about Risk and Responsibility Training\acrpluralsuffix \glsspace (SMARRT\acrpluralsuffix )},%
+text={SMARRT},%
+plural={SMARRT\acrpluralsuffix },%
+description={Students Meeting about Risk and Responsibility Training},%
+descriptionplural={Students Meeting about Risk and Responsibility Training\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Students Meeting about Risk and Responsibility Training},%
+longplural={Students Meeting about Risk and Responsibility Trainings},%
+short={SMARRT},%
+shortplural={SMARRTs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{gpa}{}%
+{%
+\gls@defglossaryentry{gpa}%
+{%
+name={GPA},%
+sort={GPA},%
+type={acronym},%
+first={Grade Point Average\glsspace (GPA)},%
+firstplural={Grade Point Average\acrpluralsuffix \glsspace (GPA\acrpluralsuffix )},%
+text={GPA},%
+plural={GPA\acrpluralsuffix },%
+description={Grade Point Average},%
+descriptionplural={Grade Point Average\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Grade Point Average},%
+longplural={Grade Point Averages},%
+short={GPA},%
+shortplural={GPAs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ihq}{}%
+{%
+\gls@defglossaryentry{ihq}%
+{%
+name={IHQ},%
+sort={IHQ},%
+type={acronym},%
+first={International Headquarters\glsspace (IHQ)},%
+firstplural={International Headquarters\acrpluralsuffix \glsspace (IHQ\acrpluralsuffix )},%
+text={IHQ},%
+plural={IHQ\acrpluralsuffix },%
+description={International Headquarters},%
+descriptionplural={International Headquarters\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={International Headquarters},%
+longplural={International Headquarterss},%
+short={IHQ},%
+shortplural={IHQs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{nic}{}%
+{%
+\gls@defglossaryentry{nic}%
+{%
+name={NIC},%
+sort={NIC},%
+type={acronym},%
+first={North American Interfraternity Conference\glsspace (NIC)},%
+firstplural={North American Interfraternity Conference\acrpluralsuffix \glsspace (NIC\acrpluralsuffix )},%
+text={NIC},%
+plural={NIC\acrpluralsuffix },%
+description={North American Interfraternity Conference},%
+descriptionplural={North American Interfraternity Conference\acrpluralsuffix },%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={North American Interfraternity Conference},%
+longplural={North American Interfraternity Conferences},%
+short={NIC},%
+shortplural={NICs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
