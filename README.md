@@ -11,7 +11,7 @@ easily found on the internet.
 On Debian based systems:
 
 ```
-sudo apt-get install texlive-full
+sudo apt-get install make texlive-full
 ```
 
 That is all you need!
